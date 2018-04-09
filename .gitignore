@@ -1,0 +1,15 @@
+# Folders
+logs/
+dat/
+res/
+old/
+tmp/
+src/.idea/
+src/__pycache__/
+# Extensions
+*.pyc
+*.DS_Store
+*.png
+# Files
+src/work.sh
+src/immalpha.sh
