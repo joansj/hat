@@ -10,15 +10,16 @@ Joan Serra, Didac Suris, Marius Miron, & Alexandros Karatzoglou.
 
 ## Reference and Link to Paper
 
-    @ARTICLE{Serra18ARXIV,
-    author = {Serr\`a, J. and Sur\'is, D. and Miron, M. and Karatzoglou, A.},
-    title = {Overcoming catastrophic forgetting with hard attention to the task},
-    journal = {ArXiv},
-    volume = {1801.01423},
-    year = 2018,
-    }
+  @InProceedings{pmlr-v80-serra18a,
+     title = 	 {Overcoming Catastrophic Forgetting with Hard Attention to the Task},
+     author = 	 {Serr\`a, Joan and Sur\'is, D\'idac and Miron, Marius and Karatzoglou, Alexandros},
+     booktitle = 	 {Proceedings of the 35th International Conference on Machine Learning},
+     pages = 	 {4548--4557},
+     year = 	 {2018},
+     volume = 	 {80},
+  }
 
-Link: [https://arxiv.org/abs/1801.01423](https://arxiv.org/abs/1801.01423)
+Link: [http://proceedings.mlr.press/v80/serra18a.html](http://proceedings.mlr.press/v80/serra18a.html)
 
 ## Installing
 
